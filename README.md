@@ -11,8 +11,7 @@ matplotlib.pyplot
 scikit-learn
 
 # folder structure
-<pre> <code> datasets 
-                └── classes ├── folders ( e.g 1,2,3,4,5 ) ├── picures (1,2,3...n.png) </code> </pre>
+<pre> <code> datasets |── classes ├── folders ( e.g 1,2,3,4,5 ) ├── picures (1,2,3...n.png) </code> </pre>
 
 # Model accuracy and loss curve
 
