@@ -5,10 +5,10 @@ Give number of neurons of your own choice (default : 512->128).
 
 # dependencies:
 
-numpy
-opencv
-matplotlib.pyplot
-scikit-learn
+# numpy
+# opencv
+# matplotlib.pyplot
+# scikit-learn
 
 # folder structure
 <pre> <code> datasets |── classes ├── folders ( e.g 1,2,3,4,5 ) ├── picures (1,2,3...n.png) </code> </pre>
