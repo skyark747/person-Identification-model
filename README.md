@@ -11,6 +11,7 @@ Give number of neurons of your own choice (default : 512->128).
 - scikit-learn
 
 ## folder structure
+```text
 datasets/
 └── classes/
 ├── 1/
@@ -35,6 +36,7 @@ datasets/
 ├── 1.png
 ├── 2.png
 └── ...
+```
 
 ## Model accuracy and loss curve
 
