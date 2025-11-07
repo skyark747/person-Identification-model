@@ -13,28 +13,28 @@ Give number of neurons of your own choice (default : 512->128).
 ## folder structure
 datasets/
 └── classes/
-    ├── 1/
-    │   ├── 1.png
-    │   ├── 2.png
-    │   ├── 3.png
-    │   └── ...
-    ├── 2/
-    │   ├── 1.png
-    │   ├── 2.png
-    │   ├── 3.png
-    │   └── ...
-    ├── 3/
-    │   ├── 1.png
-    │   ├── 2.png
-    │   └── ...
-    ├── 4/
-    │   ├── 1.png
-    │   ├── 2.png
-    │   └── ...
-    └── 5/
-        ├── 1.png
-        ├── 2.png
-        └── ...
+├── 1/
+│ ├── 1.png
+│ ├── 2.png
+│ ├── 3.png
+│ └── ...
+├── 2/
+│ ├── 1.png
+│ ├── 2.png
+│ ├── 3.png
+│ └── ...
+├── 3/
+│ ├── 1.png
+│ ├── 2.png
+│ └── ...
+├── 4/
+│ ├── 1.png
+│ ├── 2.png
+│ └── ...
+└── 5/
+├── 1.png
+├── 2.png
+└── ...
 
 ## Model accuracy and loss curve
 
